@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azhar.mymusic"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:6:5-80
+11-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:8:5-71
+13-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:8:22-68
+14    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+14-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:9:5-80
+14-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:9:22-77
+15
+16    <application
+16-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:11:5-30:19
+17        android:allowBackup="true"
+17-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:12:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] C:\Users\yusri\.gradle\caches\transforms-2\files-2.1\34e436963887510d53d063d14d01ac7a\core-1.5.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:13:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:14:9-41
+22        android:requestLegacyExternalStorage="true"
+22-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:15:9-52
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:16:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:17:9-35
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:18:9-40
+26        <activity
+26-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:20:9-28:20
+27            android:name="com.azhar.mymusic.activities.MainActivity"
+27-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:21:13-52
+28            android:configChanges="keyboardHidden|orientation|screenSize" >
+28-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:22:13-74
+29            <intent-filter>
+29-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:23:13-27:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:24:17-69
+30-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:24:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:26:17-77
+32-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:26:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.azhar.mymusic.activities.PlaySongActivity" />
+35-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:29:9-65
+35-->C:\Users\yusri\Desktop\MusicPlayer-main\app\src\main\AndroidManifest.xml:29:19-62
+36    </application>
+37
+38</manifest>

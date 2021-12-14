@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/bg_progress.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/bg_thumb.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/btn_repeat.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/btn_repeat_focused.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_back.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_clear.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_search.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_shuffle_pressed.xml" value="0.1125" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/activity_play_song.xml" value="0.1" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/list_item_main.xml" value="0.1" />
+        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/toolbar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
