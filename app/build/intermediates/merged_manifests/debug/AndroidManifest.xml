@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.azhar.mymusic"
+    package="com.android.example.musicplayer"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -22,17 +22,19 @@
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.azhar.mymusic.activities.MainActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize" >
+            android:name="com.android.example.musicplayer.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.azhar.mymusic.activities.PlaySongActivity" />
+        <activity android:name="com.android.example.musicplayer.PlaySongActivity" />
     </application>
 
 </manifest>

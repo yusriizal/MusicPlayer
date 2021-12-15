@@ -194,7 +194,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:src="@drawable/ic_previous"
-                            android:tint="@color/colorPrimaryDark" />
+                            app:tint="@color/colorPrimaryDark" />
 
                         <ImageView
                             android:id="@+id/imageRewind"
@@ -202,7 +202,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:src="@drawable/ic_fast_rewind"
-                            android:tint="@color/colorPrimaryDark" />
+                            app:tint="@color/colorPrimaryDark" />
 
                     </LinearLayout>
 
@@ -230,7 +230,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:src="@drawable/ic_fast_forward"
-                            android:tint="@color/colorPrimaryDark" />
+                            app:tint="@color/colorPrimaryDark" />
 
                         <ImageView
                             android:id="@+id/imageNext"
@@ -238,7 +238,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:src="@drawable/ic_next"
-                            android:tint="@color/colorPrimaryDark" />
+                            app:tint="@color/colorPrimaryDark" />
 
                     </LinearLayout>
 
@@ -246,7 +246,7 @@
 
             </RelativeLayout>
 
-            <com.azhar.mymusic.utils.AudioVisualizer
+            <com.android.example.musicplayer.AudioVisualizer
                 android:id="@+id/visualizerView"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"

@@ -3,19 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/bg_progress.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/bg_thumb.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/btn_repeat.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/btn_repeat_focused.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_back.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_clear.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_search.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/drawable/ic_shuffle_pressed.xml" value="0.1125" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/activity_play_song.xml" value="0.1" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/list_item_main.xml" value="0.1" />
-        <entry key="..\:/Users/yusri/Desktop/MusicPlayer-main/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/yusri/AndroidStudioProjects/Music-Player/app/src/main/res/layout/activity_play_song.xml" value="0.20711974110032363" />
+        <entry key="..\:/Users/yusri/AndroidStudioProjects/Music-Player/app/src/main/res/layout/list_item_main.xml" value="0.1" />
       </map>
     </option>
   </component>
