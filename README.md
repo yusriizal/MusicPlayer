@@ -8,9 +8,9 @@ Yusriizal Piliyang
 
 ## App Description
 
-Musci Player adalah sebuah app pemutar music. 
+Musci Player adalah sebuah app pemutar musik. 
 
-Cara menggunakan To Do Manager:
+Cara menggunakan Player Music:
 
 anda memiliki file lagu di folder root hp.
 
@@ -75,4 +75,4 @@ suka mendegar musik melalui sportify
 - Link aplikasi di playstore : https://play.google.com/store/apps/details?id=com.musicplayeryusriizal
 - Privacy policy : https://pages.flycricket.io/music-player-40/privacy.html
 - Video wawancara langsung dengan ketiga tester : https://www.youtube.com/watch?v=74QTkgE0UQQ
-- Subtitle video : https://github.com/dhimasamri/To-Do-Manager/blob/main/Subtitle/Subtitle.srt
+- Subtitle video : https://github.com/yusriizal/MusicPlayer/blob/main/subtitle.srt
